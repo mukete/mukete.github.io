@@ -7,7 +7,7 @@ permalink: /about/
 william a. f. mukete
 
 
-senior web developer at [njorku](https://www.njorku.com)
+web developer at [njorku](https://www.njorku.com)
 
 founder at [soso](https://sosoticket.com)
 
