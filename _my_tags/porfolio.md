@@ -1,4 +1,0 @@
----
-slug: porfolio
-name: Porfolio
----
