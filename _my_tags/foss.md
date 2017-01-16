@@ -1,4 +1,0 @@
----
-slug: foss
-name: FOSS
----
