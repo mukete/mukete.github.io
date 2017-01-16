@@ -4,7 +4,6 @@ name: Mukete
 paginate: 25
 paginate_path: "/posts/page/:num/"
 url: http://mukete.github.io/
-permalink: pretty
 blog_theme: dark # Or use dark
 
 # Optional settings
